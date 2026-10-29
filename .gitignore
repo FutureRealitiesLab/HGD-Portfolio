@@ -13,5 +13,3 @@ Thumbs.db
 *.key
 .env
 
-# Testdaten
-werke/test*
