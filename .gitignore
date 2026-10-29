@@ -1,9 +1,6 @@
 # Laufzeit-Cache (verkleinerte Bilder)
 cache/
 
-# Werke: Bilder und Texte gehören nicht ins öffentliche Repository
-werke/*
-!werke/.htaccess
 
 # System- und Editordateien
 .DS_Store
@@ -15,3 +12,6 @@ Thumbs.db
 .netrc
 *.key
 .env
+
+# Testdaten
+werke/test*
