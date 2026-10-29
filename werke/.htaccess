@@ -1,0 +1,3 @@
+# Die Originalbilder sind nicht direkt abrufbar. Die Seite liest sie selbst
+# aus und liefert nur verkleinerte Versionen aus (Apache 2.4).
+Require all denied

@@ -1,0 +1,59 @@
+// AUSSTELLUNGEN
+// Eine Zeile pro Ausstellung, in der Form   Jahr: Text
+// Die Reihenfolge der Zeilen bleibt erhalten. Neue Einträge einfach an der gewünschten Stelle einfügen.
+// Steht dasselbe Jahr in mehreren Zeilen direkt untereinander, wird es nur einmal angezeigt.
+// Zeilen mit # davor sind Zwischenüberschriften, Zeilen mit // sind Notizen (werden nicht angezeigt).
+// Links im Text: [Text](https://adresse)
+// Einzelausstellungen nach der Liste von Hans-Georg Dornhege. Ab 2022 sowie die Gruppenausstellungen
+// stammen aus Wikipedia und Online-Quellen und sind noch nicht vollständig. Bitte ergänzen.
+
+# Einzelausstellungen (Auswahl)
+1964: „Astronauten und amerikanische Landschaften“, Galerie Großgörschen 35, Berlin
+1979: „New York Protokoll“, Galerie 360 Grad, Wuppertal; Galerie Stein, Köln
+1981/82: „New York-Protokoll“ und „Eemshafen Holland“, Galerie W1-Enno Hungerland, Wuppertal; Städtische Galerie Schloss Oberhausen; Galerie am Savignyplatz, Berlin; Galerie Apex, Göttingen. Großformatige Bilder, Bildobjekte, Gouachen, Fotosiebdrucke
+1982: „New York Protokoll“ und „Chilenisches Tagebuch“, Kunsthalle Valdivia, Chile; Goethe-Institut, Santiago de Chile; Galerie Enno Hungerland, Wuppertal; Ruhrländischer Künstlerbund, Essen. Großformatige Bilder
+1984: „Westfälische Landschaften“, Städtische Galerie, Bad Oeynhausen; Art Cologne (Galerie am Savignyplatz)
+1985: „Überfahrten“, Galerie am Savignyplatz, Berlin. Paraphrasen zu Gemälden von Tizian, Veronese, Ter Borch, Fragonard, von Oer, Richter und Gericault
+1986: „Das Treffen in Angelmodde“ und „Westfälische Landschaften“, Galerie S, Stadtsparkasse Münster
+1986: „Locus amoenus, Arta“, Städtische Bühnen, Münster. Strandbilder
+1986: „Westfälische Landschaften“, Karstadt AG, Kaufhaus Münster. 30 Gouachen, ständige Präsentation
+1991: „Jardins d’Árta“, Sala d’Expositions Na Batlessa, Arta, Mallorca. Artanische Landschaften
+1995: „Carmerstraße + Potsdamer Platz 1941 + 1945“, Galerie am Savignyplatz, Berlin. Bildobjekte
+1996: „Cala Torta“, Herz- und Diabeteszentrum NRW, Bad Oeynhausen. Mediterrane Landschaften und Strandbilder
+1996: „Potsdamer Platz 1945“, Infobox Potsdamer Platz, Berlin. 4 Bildobjekte zur „Stunde Null“
+1999: „Kardinal am Meer“, Kunstverein Kaponier, Vechta. Terrakotten und großformatige Bilder
+2000: „Landschaft“, Galerie König, Münster. Gemeinsame Ausstellung mit Teresa Reyes-Lorca
+2002: „Die Ankunft des Gesandten Adriaen Pauw mit Frau und Enkelkind in Münster“, Bundesministerium für Ernährung, Landwirtschaft und Verbraucherschutz, Berlin. Paraphrase zum Gemälde von Ter Borch, Ankauf
+2003: „Aus der Etappe“, Galerie am Savignyplatz, Berlin. Paraphrasen zu Sammelbildchen über den Ersten Weltkrieg
+2005/06: „Angesichts von“, Galerie am Savignyplatz, Berlin. Zeichnungen angesichts von Bildern anderer Künstler
+2007: „Himmel über San Jordi“, Galerie Michael Nolte, Münster. Straßenbilder aus der Peripherie des Flughafens Palma de Mallorca
+2008: „Himmel über San Jordi“, Galerie am Savignyplatz, Berlin. Straßenbilder aus der Peripherie des Flughafens Palma de Mallorca
+2008: „Buen Camino“, Galerie Michael Nolte, Münster. Frottagen mit Überzeichnungen, entstanden auf dem Jakobsweg 2008
+2009: „Buen Camino“, Galeria Vicente Gracia Joyas, Valencia. Frottagen mit Überzeichnungen, entstanden auf dem Jakobsweg 2008
+2010: „El Camino Aragonés y sus desvíos“, Galerie Michael Nolte, Münster. Frottagen mit Überzeichnungen, entstanden auf dem Jakobsweg 2009
+2011: „Buen Camino“, Akademie Franz-Hitze-Haus, Münster. Frottagen mit Überzeichnungen, entstanden auf dem Jakobsweg 2008
+2012: „Fluchtpunkte“, ARDEX Informationszentrum, Witten. Bilder und Grafiken 1965 bis 2011
+2012: „Malerei und Fotografie“, Galerie Simon Nolte, Portocolom. Gemeinsame Ausstellung mit Jürgen Klück
+2021: „Das Treffen in Angelmodde“, Gallitzin-Haus, Münster. Bilder und Grafiken 1958 bis 2021
+2022: [„Zeitspuren“](https://www.emsdettener-kunstverein.de/2022-Zeitspuren/index.php), Galerie Münsterland, Emsdetten, Emsdettener Kunstverein (15. Mai bis 12. Juni). Gemeinsame Ausstellung mit Teresa Reyes-Lorca. Panoramabilder über Mallorca und Straßenbilder
+
+# Gruppenausstellungen (Auswahl)
+1964 bis 1970: Ausstellungsgemeinschaft „Großgörschen 35“, Galerie G 35, Berlin
+1967: „Neuer Realismus in Deutschland“, Haus am Waldsee, Berlin
+1967: „Gravura alemã desde 1945“, Goethe-Institut, São Paulo
+1968: „Industrie und Technik in der deutschen Malerei“, Wilhelm-Lehmbruck-Museum, Duisburg
+1969: „Künstler aus NRW“, Westfälischer Kunstverein, Münster (mit den Fotodrucken „New-York-Protokoll“)
+1980 bis 2009: Große Düsseldorfer Kunstausstellung, Kunstpalast, Düsseldorf
+1982: „Künstler aus Westfalen“, Westfälisches Landesmuseum, Münster
+1983 bis 2009: Ausstellungsbeteiligungen, Westdeutscher Künstlerbund
+1989: „Großgörschen hat Geburtstag 1969 bis 1989“, Galerie Eva Poll, Berlin
+1989: „Stationen der Moderne“, Berlinische Galerie / Martin-Gropius-Bau, Berlin
+1990: „Kunstszene Berlin West 86 bis 89, Neuerwerbungen“, Künstlersonderbund, Martin-Gropius-Bau, Berlin
+1991: „Landschaften“, Kulturbahnhof, Düsseldorf
+1993: „I. Realismustriennale“, Künstlersonderbund, Martin-Gropius-Bau, Berlin
+1995: „Potsdamer Platz“, Verein Berliner Künstler, ehemalige Staatliche Kunsthalle Berlin
+1996: „Die Kraft der Bilder“, Künstlersonderbund, Martin-Gropius-Bau, Berlin
+2009: „Neue Landschaften“, Westdeutscher Künstlerbund, Thyssen-Krupp, Duisburg
+2009: „Kaunas in Art: Contexts“, Westdeutscher Künstlerbund / Lithuanian Artists’ Association, Galerie „Meno parcas“, Kaunas
+2010: „20 Jahre Künstlersonderbund“, Uferhallen, Berlin
+2024: „Jubiläumsausstellung in Rot und Blau“, Kunstforum im Herz- und Diabeteszentrum NRW, Bad Oeynhausen, Westdeutscher Künstlerbund (Eröffnung 6. November; [Bericht in HDZeit](https://www.hdzeit.de/news/jubilaeumsausstellung-in-rot-und-blau.html))

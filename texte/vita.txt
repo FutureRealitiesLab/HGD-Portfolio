@@ -1,0 +1,25 @@
+// VITA
+// Eine Zeile pro Eintrag, in der Form   Jahr: Text
+// Zeilen mit # davor sind Zwischenüberschriften.
+// Zeilen ohne Jahr erscheinen als normaler Absatz.
+// Zeilen mit // davor (wie diese) sind Notizen und werden nicht angezeigt.
+// Links im Text: [Text](https://adresse)
+// Entwurf nach Wikipedia, dem Künstlersonderbund-Profil und der Seite der Heimatfreunde Angelmodde.
+// Bitte prüfen, ergänzen und kürzen.
+
+Geboren 1938 in Münster. Lebt und arbeitet in Münster, Berlin und Artà (Mallorca).
+
+# Stationen
+1938: Geboren in Münster
+1959 bis 1965: Studium an der Hochschule für Bildende Künste Berlin, Meisterschüler von Fred Thieler. Parallel Botanik und Zoologie an der Freien Universität Berlin
+1964 bis 1970: Ausstellungsgemeinschaft „Großgörschen 35“, Berlin (Neuer Realismus)
+1973 bis 2007: Lehrtätigkeit an der Universität Dortmund
+1986: Erwerb eines mittelalterlichen Stadthauses in Artà, Mallorca
+seit 2008: Pilgerwanderungen auf dem Jakobsweg, teils gemeinsam mit seiner Frau
+
+# Engagement
+2025: Kuratiert die Ausstellung „In Verbindung“ von Marlies Jörden im Gallitzinhaus, Münster-Angelmodde ([Heimatfreunde Angelmodde](https://heimatfreunde-angelmodde.de/event/ausstellung-mit-arbeiten-von-marlies-joerden-in-verbindung-vernissage/))
+Mitglied im Vorstand der [Heimatfreunde Angelmodde e. V.](https://heimatfreunde-angelmodde.de/)
+
+# Werkgruppen
+Astronautenbilder, Landschaftsbilder, „Amerikanische Landschaften“, „New York Protokolle“, Mallorca, Zeichnungen vom Jakobsweg. Reisen in die USA (New York) und nach Chile.

@@ -1,0 +1,26 @@
+// LINKS
+// Eine Zeile pro Link, in der Form   Titel | Adresse | Zusatz
+// Der Zusatz (zum Beispiel Zeitung und Datum) ist optional. Ohne Zusatz wird die Webadresse angezeigt.
+// Zeilen ohne Adresse erscheinen als normaler Text (zum Beispiel Literaturangaben).
+// Zeilen mit # davor sind Zwischenüberschriften.
+// Zeilen mit // davor (wie diese) werden nicht angezeigt. So lässt sich ein Link vorübergehend ausblenden.
+
+# Ausstellungen und Artikel
+Emsdettener Kunstverein | https://www.emsdettener-kunstverein.de/2022-Zeitspuren/index.php | Ausstellung „Zeitspuren“, Emsdetten 2022, gemeinsam mit Teresa Reyes-Lorca
+HDZeit | https://www.hdzeit.de/news/jubilaeumsausstellung-in-rot-und-blau.html | Bericht über die „Jubiläumsausstellung in Rot und Blau“, Bad Oeynhausen (HDZeit 4/2025)
+Heimatfreunde Angelmodde | https://heimatfreunde-angelmodde.de/event/ausstellung-mit-arbeiten-von-marlies-joerden-in-verbindung-vernissage/ | Ausstellung „In Verbindung“ von Marlies Jörden, 2025, kuratiert von Hans-Georg Dornhege
+
+# Verein
+Heimatfreunde Angelmodde e. V. | https://heimatfreunde-angelmodde.de/ | Verein in Münster-Angelmodde, Hans-Georg Dornhege ist im Vorstand
+
+# Profile
+Wikipedia | https://de.wikipedia.org/wiki/Hans-Georg_Dornhege | Artikel zu Hans-Georg Dornhege
+Künstlersonderbund | https://www.kuenstlersonderbund.de/mitgl_dornhege.htm | Mitgliederprofil (Stand 2007)
+
+# Literatur
+Eckhart J. Gillen (Hrsg.): Großgörschen 35. Aufbruch zur Kunststadt Berlin 1964. Ausstellungskatalog, Haus am Kleistpark in Kooperation mit der Kunststiftung Poll, Berlin 2014.
+
+// Weitere Adressen, nicht geprüft oder alt. Vor dem Einblenden bitte testen:
+// Galerie Simon Nolte | http://simon.nolteart.com/contemporary/artist/519-dornhege_hansgeorg.html | Künstlerprofil
+// Galerie Nolte | http://www.galerie-nolte.de/index.php?artist-details-3 | Künstlerprofil
+// ArtFacts | http://www.artfacts.net/de/kuenstler/hans-georg-dornhege-232721/profil.html | Künstlerprofil
